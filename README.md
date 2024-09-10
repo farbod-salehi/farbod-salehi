@@ -3,7 +3,7 @@
 I'm a software engineer who is passionate about developing web and mobile apps, and building community. Some technologies I enjoy working with include .Net, Angular and Ionic. 
 
 ![farbod-salehi's Stats](https://github-readme-stats.vercel.app/api?username=farbod-salehi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+<!--
 ## 🚀 About Me
 
 - 🔭  I have got my master's in Software engineering in 2015.
@@ -41,7 +41,7 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 
 
-<!--
+
 
 Here are some ideas to get you started:
 
