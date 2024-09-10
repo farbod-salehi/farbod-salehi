@@ -1,7 +1,7 @@
 # Hi, I'm Farbod Salehi! 👋
 
 I'm a software engineer who is passionate about developing web and mobile apps, and building community. Some technologies I enjoy working with include .Net, Angular and Ionic. 
-
+I'm particularly interested in developing my skills in machine learning.
 ![farbod-salehi's Stats](https://github-readme-stats.vercel.app/api?username=farbod-salehi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 ## 🚀 About Me
