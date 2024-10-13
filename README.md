@@ -2,6 +2,13 @@
 
 I'm a software engineer who is passionate about developing web and mobile apps, and building community. Some technologies I enjoy working with include .Net, Angular and Ionic. I'm also interested in developing my skills, particularly in machine learning.
 
+## 🏆
+- A simple game from me in Scratch: <a href="https://scratch.mit.edu/projects/1080780801"> Save The City </a>
+
+## 🚀 
+- 🔭 I have got my master's in Software engineering in 2015.
+- 📝 An article from me: <a href="https://link.springer.com/article/10.1007/s10922-016-9385-9"> A Survey of PSO-Based Scheduling Algorithms in Cloud Computing </a>
+
 ![farbod-salehi's Stats](https://github-readme-stats.vercel.app/api?username=farbod-salehi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 ## 🚀 About Me
