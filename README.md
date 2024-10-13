@@ -4,13 +4,13 @@ I'm a software engineer who is passionate about developing web and mobile apps, 
 
 ## 🏆
 - A simple game from me in Scratch: <a target="_blank" href="https://scratch.mit.edu/projects/1080780801"> Save The City </a>
-
+<br />
 
 ## 🚀 
 - 🔭 I have got my master's in Software engineering in 2015.
 - 📝 An article from me: <a target="_blank" href="https://link.springer.com/article/10.1007/s10922-016-9385-9"> A Survey of PSO-Based Scheduling Algorithms in Cloud Computing </a>
 
-
+<br /> <br />
 ![farbod-salehi's Stats](https://github-readme-stats.vercel.app/api?username=farbod-salehi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 ## 🚀 About Me
