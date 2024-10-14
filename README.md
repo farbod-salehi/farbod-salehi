@@ -6,7 +6,7 @@ As a dedicated software engineer, I am passionate about developing innovative we
 😉 A simple game, using Scratch: <a target="_blank" href="https://scratch.mit.edu/projects/1080780801"> Save The City </a> <br />
 ✍ <a target="_blank" style="text-decoration:none" href="https://link.springer.com/article/10.1007/s10922-016-9385-9"> A Survey of PSO-Based Scheduling Algorithms in Cloud Computing </a>. <br /> &nbsp; &nbsp; &nbsp;  Journal of Network and Systems Management, Published: 14 May 2016
 Volume 25, pages 122–158, (2017) <br />
-📘 I received my master’s degree in Software Engineering in 2015. <br />
+🎓 I received my master’s degree in Software Engineering in 2015. <br />
  
 
 <br />
