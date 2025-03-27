@@ -3,6 +3,7 @@
 As a dedicated software engineer, I am passionate about developing innovative web and mobile applications and fostering community engagement. I have extensive experience working with technologies such as .NET, Angular, and Ionic. Additionally, I am committed to continuous learning and am particularly interested in advancing my skills in machine learning to stay at the forefront of technological advancements.
 
 ## 🚀 
+🏆 A certificate from <a target="_blank" href="https://www.freecodecamp.org/certification/fccb7ba154e-2937-4520-862a-5055d627d207/foundational-c-sharp-with-microsoft"> Foundational C# with Microsoft  </a> <br />
 🏆 A certificate from <a target="_blank" href="https://cs50.harvard.edu/certificates/6b19d30f-b5aa-4ead-bbdc-c2c6ce3d2caf"> Harvard University's introductory course to computer science and programming  </a> <br />
 😉 A simple game, using Scratch: <a target="_blank" href="https://scratch.mit.edu/projects/1080780801"> Save The City </a> <br />
 ✍ <a target="_blank" style="text-decoration:none" href="https://link.springer.com/article/10.1007/s10922-016-9385-9"> A Survey of PSO-Based Scheduling Algorithms in Cloud Computing </a>. <br /> &nbsp; &nbsp; &nbsp;  Journal of Network and Systems Management, Published: 14 May 2016
